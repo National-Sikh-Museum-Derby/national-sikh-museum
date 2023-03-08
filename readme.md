@@ -28,3 +28,6 @@ The navigation is stored in the `_includes/header.html` folder.
 This file allows you to specify important site-wide settings such as the site title, description, URL, timezone, and more.
 
  You can also configure how Jekyll processes your content, such as setting defaults for front matter variables, specifying which files and directories to exclude from the build, and defining collections of content.
+
+ ### Differnt code snippets
+ `page.url != "/"` 
