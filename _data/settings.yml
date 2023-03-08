@@ -6,7 +6,7 @@ header_settings:
   logo_image: /assets/img/brand/logo-transparent.png
   mobile_logo_image: /assets/img/brand/logo-transparent.png
   # Choose a color for your header [blue, dark, light].
-  theme: light
+  theme: dark
   # If the page has a featured image, it turns transparent if allow_transparent is set to "yes".
   allow_transparent: "yes"
 

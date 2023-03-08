@@ -136,9 +136,14 @@ header {
 
   .page-header-image {
     position: absolute;
-    background-size: contain;
-    background-position: right;
     background-repeat: no-repeat;
+  }
+
+  .display-2 span {
+    background: #182a4ec2;
+    display: inline;
+    font-weight: bold;
+    color: white;
   }
 }
 
