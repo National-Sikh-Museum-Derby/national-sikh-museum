@@ -145,6 +145,16 @@ header {
     font-weight: bold;
     color: white;
   }
+
+  .floating-box-heading {
+    span {
+      display: block;
+
+      &:first-child {
+        margin-bottom: 1rem;
+      }
+    }
+  }
 }
 
 // header 2
