@@ -31,3 +31,6 @@ This file allows you to specify important site-wide settings such as the site ti
 
  ### Differnt code snippets
  `page.url != "/"` 
+
+ ### css styles
+ .text-center
