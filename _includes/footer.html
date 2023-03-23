@@ -1,34 +1,15 @@
 <footer class="footer mt-5 pt-4">
   <div class="container">
     <div class="row row-grid align-items-center mb-2 mt-2">
-      <div class="col-lg-6">
-        <h4 class="mb-0 font-weight-light">{{ site.data.settings.footer_settings.footer_tagline }}</h4>
-      </div>
-      <div class="col-lg-6 text-lg-right">
+      <div class="col-sm-12 text-center">
         {% include socials.html %}
       </div>
     </div>
-    <hr>
     <div class="row align-items-center justify-content-md-between">
-      <div class="col-md-6">
-        <div class="copyright">
-          <span> © {{ 'now' | date: "%Y" }} Argon Design System by <a href="https://www.creative-tim.com/" target="_blank">Creative Tim</a> & <a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a></span>
+      <div class="col-sm-12">
+        <div class="copyright text-center">
+          <span> © {{ 'now' | date: "%Y" }} National Sikh Museum. All rights reserved.</span>
         </div>
-      </div>
-      <div class="col-md-6">
-        <ul class="nav nav-footer justify-content-end">
-          {% for item in site.data.settings.menu_settings.menu_items %}
-          {% if item.submenu_items %}
-
-          {% else %}
-          <li class="nav-item">
-            <a href="{{ item.url | relative_url }}" class="nav-link">
-              <span class="nav-link-inner--text">{{ item.title }}</span>
-            </a>
-          </li>
-          {% endif %}
-          {% endfor %}
-        </ul>
       </div>
     </div>
   </div>

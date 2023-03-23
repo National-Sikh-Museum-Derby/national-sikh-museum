@@ -72,16 +72,16 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/jekyllthemes/'
-  twitter_url: 'https://twitter.com/jekyllthemesio'
-  instagram_url: 'https://twitter.com/jekyllthemesio'
+  facebook_url: 'https://www.facebook.com/nationalsikhmuseum/'
+  twitter_url: 'https://twitter.com/SikhMuseumDerby'
+  instagram_url: ''
   youtube_url: ''
   vimeo_url: ''
   pinterest_url: ''
   tumblr_url: ''
   dribbble_url: ''
   behance_url: ''
-  github_url: 'https://twitter.com/jekyllthemesio'
+  github_url: ''
   reddit_url: ''
   linkedin_url: ''
 
