@@ -34,3 +34,10 @@ This file allows you to specify important site-wide settings such as the site ti
 
  ### css styles
  .text-center
+
+ ### How to add a new page with menu item
+ New page: 
+    _pages folder 👉 add new page
+ Menu item: 
+    settings.yml 👉 add to `menu_items`
+ 

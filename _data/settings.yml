@@ -39,26 +39,28 @@ menu_settings:
       - title: Blog
         url: /blog
         icon: ni-books text-primary
-    - title: 'Features'
-      url: '/features'     
-    - title: Pricing
-      url: /pricing        
-    - title: 'Blog'
-      submenu_items:
-      - title: Blog
-        url: /blog
-        icon: ni-books text-primary
-      - title: Narrow Grid Example
-        url: /blog-narrow-example
-        icon: ni-align-center text-success
-      - title: Wide Grid Example
-        url: /blog-grid-example
-        icon: ni-image text-info
-      - title: List Example
-        url: /blog-list-example
-        icon: ni-bullet-list-67 text-default    
-    - title: 'About'
-      url: '/about'
+    - title: 'Resources'
+      url: '/resources'     
+    - title: Library
+      url: /library  
+    - title: FAQ
+      url: /faq        
+    # - title: 'Blog'
+    #   submenu_items:
+    #   - title: Blog
+    #     url: /blog
+    #     icon: ni-books text-primary
+    #   - title: Narrow Grid Example
+    #     url: /blog-narrow-example
+    #     icon: ni-align-center text-success
+    #   - title: Wide Grid Example
+    #     url: /blog-grid-example
+    #     icon: ni-image text-info
+    #   - title: List Example
+    #     url: /blog-list-example
+    #     icon: ni-bullet-list-67 text-default    
+    - title: 'About Us'
+      url: '/about-us'
     - title: 'Contact'
       url: '/contact'
 
