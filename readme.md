@@ -41,3 +41,5 @@ This file allows you to specify important site-wide settings such as the site ti
  Menu item: 
     settings.yml 👉 add to `menu_items`
  
+ ### What is going on with type on Contact page
+ Contact page was setting `type: contact` in it's metadata which/ is used on default.html in an in statement `page.type != "contact`
