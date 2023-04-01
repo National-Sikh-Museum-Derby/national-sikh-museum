@@ -32,8 +32,10 @@ This file allows you to specify important site-wide settings such as the site ti
  ### Differnt code snippets
  `page.url != "/"` 
 
- ### css styles
+ ### css styles classes
  .text-center
+ .mt-3
+ .pt-5
 
  ### How to add a new page with menu item
  New page: 
