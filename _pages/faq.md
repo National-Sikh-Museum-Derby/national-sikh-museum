@@ -1,18 +1,13 @@
 ---
-title: FAQ
-subtitle: TBD
-description: TBD
+title: Frequently Asked Questions
+subtitle:
+description: Frequently Asked Questions
 featured_image: /assets/img/sections/unsplashs.jpg
 ---
 
 <div class="cd-section" id="accordion">
     <div class="accordion-1">
       <div class="container">
-        <div class="row">
-          <div class="col-md-6 mx-auto text-center">
-            <h2 class="title mb-3 mt-5">Frequently asked question</h2>
-          </div>
-        </div>
         <div class="row">
           <div class="col-md-12 ml-auto">
             <div class="accordion" id="accordionExample">
