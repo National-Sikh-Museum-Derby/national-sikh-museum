@@ -10,6 +10,8 @@
       border-bottom: 1px solid $secondary !important;
 
       .card-header {
+        padding-left:0;
+        padding-right: 0;
         border-bottom: none;
 
         .btn[aria-expanded="true"]{
@@ -27,7 +29,7 @@
         border-bottom: none !important;
       }
       .card-body {
-        padding: 10px 30px 30px;
+        padding: 10px 20px 30px;
       }
     }
   }
