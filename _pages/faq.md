@@ -92,75 +92,75 @@ featured_image: /assets/img/sections/unsplashs.jpg
                 </div>
               </div>
               <div class="card">
-                <div class="card-header" id="headingFifth">
+                <div class="card-header" id="heading6">
                   <h5 class="mb-0">
-                    <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapseFifth" aria-controls="collapseFifth">
+                    <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapse6" aria-controls="collapse6">
                       Is the museum accessible for visitors with disabilities?
                       <i class="ni ni-bold-down float-right pt-1"></i>
                     </button>
                   </h5>
                 </div>
-                <div id="collapseFifth" class="collapse" aria-labelledby="headingFifth" data-parent="#accordionExample">
+                <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#accordionExample">
                   <div class="card-body opacity-8">
                     Yes, the museum is accessible for visitors with disabilities. The museum has wheelchair access and other accommodations to make the museum experience accessible to all visitors.
                   </div>
                 </div>
               </div>
               <div class="card">
-                <div class="card-header" id="headingFifth">
+                <div class="card-header" id="heading7">
                   <h5 class="mb-0">
-                    <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapseFifth" aria-controls="collapseFifth">
+                    <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapse7" aria-controls="collapse7">
                       Is photography allowed inside the museum?
                       <i class="ni ni-bold-down float-right pt-1"></i>
                     </button>
                   </h5>
                 </div>
-                <div id="collapseFifth" class="collapse" aria-labelledby="headingFifth" data-parent="#accordionExample">
+                <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#accordionExample">
                   <div class="card-body opacity-8">
                     No. Photography is not allowed inside the museum.
                   </div>
                 </div>
               </div>
               <div class="card">
-                <div class="card-header" id="headingFifth">
+                <div class="card-header" id="heading8">
                   <h5 class="mb-0">
-                    <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapseFifth" aria-controls="collapseFifth">
+                    <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapse8" aria-controls="collapse8">
                       Is there a gift shop or cafe on-site?
                       <i class="ni ni-bold-down float-right pt-1"></i>
                     </button>
                   </h5>
                 </div>
-                <div id="collapseFifth" class="collapse" aria-labelledby="headingFifth" data-parent="#accordionExample">
+                <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordionExample">
                   <div class="card-body opacity-8">
                     Yes, there is a gift shop and free food (langar) offered by the Gurdwara opposite to the museum where visitors can eat for free.
                   </div>
                 </div>
               </div>
               <div class="card">
-                <div class="card-header" id="headingFifth">
+                <div class="card-header" id="heading9">
                   <h5 class="mb-0">
-                    <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapseFifth" aria-controls="collapseFifth">
+                    <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapse9" aria-controls="collapse9">
                       Can visitors donate items to the museum's collection?
                       <i class="ni ni-bold-down float-right pt-1"></i>
                     </button>
                   </h5>
                 </div>
-                <div id="collapseFifth" class="collapse" aria-labelledby="headingFifth" data-parent="#accordionExample">
+                <div id="collapse9" class="collapse" aria-labelledby="heading9" data-parent="#accordionExample">
                   <div class="card-body opacity-8">
                     Yes, visitors can donate items to the museum's collection. Contact the museum in advance to discuss the donation process.
                   </div>
                 </div>
               </div>
               <div class="card">
-                <div class="card-header" id="headingFifth">
+                <div class="card-header" id="heading10">
                   <h5 class="mb-0">
-                    <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapseFifth" aria-controls="collapseFifth">
+                    <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapse10" aria-controls="collapse10">
                       Can the museum accommodate group visits or school trips?
                       <i class="ni ni-bold-down float-right pt-1"></i>
                     </button>
                   </h5>
                 </div>
-                <div id="collapseFifth" class="collapse" aria-labelledby="headingFifth" data-parent="#accordionExample">
+                <div id="collapse10" class="collapse" aria-labelledby="heading10" data-parent="#accordionExample">
                   <div class="card-body opacity-8">
                     Yes, the museum can accommodate group visits and school trips. Contact the museum in advance to make arrangements and discuss any special accommodations that may be needed.
                   </div>
