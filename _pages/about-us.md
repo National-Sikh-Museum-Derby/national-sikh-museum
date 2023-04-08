@@ -2,7 +2,7 @@
 title: About Us
 subtitle:
 description: About us
-featured_image: /assets/img/sections/home-header.jpg
+featured_image: /assets/img/sections/sikh-soldiers.jpeg
 ---
 
 During the 1980s a number of young Sikhs went on field trips to London museums and places of Anglo-Sikh interest up and down the country organised by SCYS (Sikh Community and Youth Service), Nottingham.<br><br>
