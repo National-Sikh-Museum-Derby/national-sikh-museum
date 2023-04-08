@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 subtitle:
 description: Frequently Asked Questions
-featured_image: /assets/img/sections/unsplashs.jpg
+featured_image: /assets/img/sections/home-header.jpg
 ---
 
 <div class="cd-section" id="accordion">
