@@ -7,7 +7,7 @@ featured_image: /assets/img/sections/home-header.jpg
 
 <div class="container">
     <div class="row">
-        <div class="col-lg-4 col-md-6 col-6">
+        <div class="col-lg-4 col-md-6">
         <div class="info info-hover">
             <div class="icon icon-shape icon-shape-primary icon-lg shadow rounded-circle text-primary">
             <i class="ni ni-square-pin"></i>
@@ -21,7 +21,7 @@ featured_image: /assets/img/sections/home-header.jpg
             United Kingdom</p>
         </div>
         </div>
-        <div class="col-lg-4 col-md-6 col-6">
+        <div class="col-lg-4 col-md-6">
         <div class="info info-hover">
             <div class="icon icon-shape icon-shape-primary icon-lg shadow rounded-circle text-primary">
             <i class="ni ni-email-83"></i>
@@ -30,7 +30,7 @@ featured_image: /assets/img/sections/home-header.jpg
             <p class="description px-0">contact@nationalsikhmuseum.com</p>
         </div>
         </div>
-        <div class="col-lg-4 col-md-6 col-6">
+        <div class="col-lg-4 col-md-6">
         <div class="info info-hover">
             <div class="icon icon-shape icon-shape-primary icon-lg shadow rounded-circle text-primary">
             <i class="ni ni-mobile-button"></i>
