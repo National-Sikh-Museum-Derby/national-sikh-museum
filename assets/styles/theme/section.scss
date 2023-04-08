@@ -546,6 +546,13 @@
     }
 }
 
+.discover-nsm {
+    .card {
+        @media (min-width:992px) {
+            height: 330px;       
+        }
+    }
+}
 
 /* .floating-cards {
      perspective:1500px;
