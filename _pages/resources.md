@@ -1,11 +1,14 @@
 ---
 title: Resources
-subtitle:
+subtitle: null
 description: Resources
 featured_image: /assets/img/sections/home-header.jpg
+published: true
 ---
 
 Gurpal Singh ji, what do you want here.. Possible suggestions <br><br>
+
+[Letter of Uhdam Singh](http://www.panjabdigilib.org/webuser/searches/displayPage.jsp?ID=36737&page=1&CategoryID=1&Searched=W3GX&sbtsro=1&viewall=1)
 
 Educational resources: Provide resources that can be used by teachers, students, and parents to learn more about Sikh history and culture. This could include lesson plans, activity sheets, and reading lists.<br><br>
 
