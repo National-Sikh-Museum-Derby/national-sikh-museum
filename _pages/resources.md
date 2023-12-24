@@ -8,7 +8,6 @@ published: true
 
 Gurpal Singh ji, what do you want here.. Possible suggestions <br><br>
 
-[Letters of Uhdam Singh](http://www.panjabdigilib.org/webuser/searches/displayPage.jsp?ID=36737&page=1&CategoryID=1&Searched=W3GX&sbtsro=1&viewall=1)
 
 Educational resources: Provide resources that can be used by teachers, students, and parents to learn more about Sikh history and culture. This could include lesson plans, activity sheets, and reading lists.<br><br>
 
@@ -25,3 +24,7 @@ Museum publications: Provide information about the museum's publications, such a
 Community resources: Highlight local resources that are available to the Sikh community, such as places of worship, community centers, and social organizations.<br><br>
 
 Donor and volunteer information: Include information about how people can support the museum through donations or volunteering.
+
+## Books
+
+[Letters of Uhdam Singh](http://www.panjabdigilib.org/webuser/searches/displayPage.jsp?ID=36737&page=1&CategoryID=1&Searched=W3GX&sbtsro=1&viewall=1)
