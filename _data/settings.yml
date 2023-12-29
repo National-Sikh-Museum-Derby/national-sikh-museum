@@ -35,10 +35,10 @@ menu_settings:
       url: /
     - title: 'Resources'
       url: '/resources'     
-    - title: Library
-      url: /library  
+    - title: Affiliation
+      url: /affiliation  
     - title: FAQ
-      url: /faq        
+      url: /faq
     # - title: 'Blog'
     #   submenu_items:
     #   - title: Blog
