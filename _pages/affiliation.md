@@ -15,11 +15,11 @@ We are delighted to spotlight three distinguished affiliates, each contributing 
 
 As a cherished affiliate, Singh Sabha Derby Gurdwara stands as a beacon of spiritual devotion and community engagement. With its deep-rooted commitment to Sikh values and traditions, this Gurdwara plays a pivotal role in connecting the Sikh diaspora in Derby with their cultural and religious heritage.
 
-### [Punjab Times](https://panjabtimes.uk)
+### [Panjab Times](https://panjabtimes.uk)
 
 **Illuminating Sikh Narratives through Media Excellence**
 
-In partnership with Panjab Time, we celebrate the power of media to amplify Sikh stories. Panjab Time, a distinguished media platform, lends its expertise to broadcasting and disseminating the diverse narratives that shape the Sikh experience in the UK. Together, we strive to provide a dynamic platform for the exploration of Sikh history and culture through the lens of contemporary media.
+In partnership with Panjab Times, we celebrate the power of media to amplify Sikh stories. Panjab Time, a distinguished media platform, lends its expertise to broadcasting and disseminating the diverse narratives that shape the Sikh experience in the UK. Together, we strive to provide a dynamic platform for the exploration of Sikh history and culture through the lens of contemporary media.
 
   ### [Akaal Primary School](https://www.nishkamschooltrust.org/aps/)
 
