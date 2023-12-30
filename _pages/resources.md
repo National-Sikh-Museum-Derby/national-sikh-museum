@@ -38,6 +38,9 @@ Sikh Siyasat News is a Punjab based Sikh news network. They have been covering P
 ### ਸਿੱਖ ਨੈਟ [Sikh Siyasat](https://www.sikhnet.com/)
 SikhNet is a source of inspiration that nurtures spiritual growth and supports a Sikh lifestyle, serving a global and diverse community in the spirit of Oneness and Chardi Kalaa.
 
+### ਖ਼ਾਲਿਸ ਫੌਂਡੇਸ਼ਨ [Khalis Foundation](Khalis Foundation – 20+ years of Sharing Sikhi Through Technology)
+Khalis Foundation is dedicated to raising awareness of Sikh culture and lifestyle through various services such as media, apps and books.
+
 ### ਬ੍ਰਿਟਿਸ਼ ਲਾਇਬ੍ਰੇਰੀ [British Library](https://www.bl.uk/)
 British Library are the national library of UK. They hold over 170 million items – a living collections that gets bigger every day. They have millions of books, newspapers, maps, sound recordings, patents and stamps in their collection.
 
