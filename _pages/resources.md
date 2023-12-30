@@ -18,7 +18,7 @@ We are further working on the below to be available in the near future:
 
 •	Reference materials: Provide resources that can help researchers and academics delve deeper into Sikh history and culture, such as bibliographies and links to scholarly articles and research papers.
 
-Here are some links to online resources for now;
+Here are some links to online resources for now (Listiing in process):
 
 ### ਸ਼੍ਰੀ ਦਰਬਾਰ ਸਾਹਿਬ Sri Darbar Sahib - [The Golden Temple](https://www.goldentempleamritsar.org/), Amritsar Punjab
 The Golden Temple Amritsar India (Sri Harimandir Sahib Amritsar) is not only a central religious place of the Sikhs, but also a symbol of human brotherhood and equality. Everybody, irrespective of cast, creed or race can seek spiritual solace and religious fulfilment without any hindrance. It also represents the distinct identity, glory and heritage of the Sikhs.
@@ -41,7 +41,7 @@ SikhNet is a source of inspiration that nurtures spiritual growth and supports a
 ### ਬ੍ਰਿਟਿਸ਼ ਲਾਇਬ੍ਰੇਰੀ [British Library](https://www.bl.uk/)
 British Library are the national library of UK. They hold over 170 million items – a living collections that gets bigger every day. They have millions of books, newspapers, maps, sound recordings, patents and stamps in their collection.
 
-## BOOKS
+### ਪਰਣਜੋਗ ਕਿਤਾਬਾਂ Recomended books to read (Listiing in process)
 
 ਹੰਨੈ ਹੰਨੈ ਪਾਤਸ਼ਾਹੀ (Hanne Hanne Patshahi) by Bhai Jagdeep Singh– ISBN 978-93-80210-76-6
 
@@ -51,6 +51,6 @@ British Library are the national library of UK. They hold over 170 million items
 
 Warrior Saints - 
 
-## Reference materials:
+### ਸਰੋਤ Reference materials (Listiing in process)
 
 [Letters of Uhdham Singh](http://www.panjabdigilib.org/webuser/searches/displayPage.jsp?ID=36737&page=1&CategoryID=1&Searched=W3GX&sbtsro=1&viewall=1)
