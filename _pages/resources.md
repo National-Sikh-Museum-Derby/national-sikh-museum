@@ -29,7 +29,8 @@ Shiromani Gurdwara Parbandhak Committee is a supreme Sikh organization body for 
 ### ਪੰਜਾਬ ਡਿਜਿਟਲ ਲਾਇਬ੍ਰੇਰੀ [Panjab Digital Library](Panjab Digital Library (PDL))
 PDL is an effort to digitally preserve and reveal the rich heritage of the Panjab state. PDL is not only digitally archiving these items in their original form, color, graphics and texture, but it will also change the way the public is able to access and utilize these texts. PDL will redefine the role and scope of a global library.
 
-Panjab Times – Panjab Times is one of favorite Punjabi language weekly magazine in UK & worldwide for the Punjabi community.
+### ਪੰਜਾਬ ਟਾਈਮਜ਼ [Panjab Times](https://panjabtimes.uk/)
+Panjab Times is one of favorite Punjabi language weekly magazine in UK & worldwide for the Punjabi community.
 
 Sikh Siyasat - Sikh Siyasat News is a Punjab based Sikh news network. They have been covering Panthic & worldwide news from across the globe at the earliest possibility with necessary details for their readers. They provide a range of audiobooks for their viewers to listen & download.
 
