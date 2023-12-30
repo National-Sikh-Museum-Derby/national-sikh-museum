@@ -20,14 +20,14 @@ We are further working on the below to be available in the near future:
 
 ## Here are some links to online resources for now:
 
-### Sri Darbar Sahib - [The Golden Temple](https://www.goldentempleamritsar.org/), Amritsar Punjab
+### ਸ਼੍ਰੀ ਦਰਬਾਰ ਸਾਹਿਬ Sri Darbar Sahib - [The Golden Temple](https://www.goldentempleamritsar.org/), Amritsar Punjab
 The Golden Temple Amritsar India (Sri Harimandir Sahib Amritsar) is not only a central religious place of the Sikhs, but also a symbol of human brotherhood and equality. Everybody, irrespective of cast, creed or race can seek spiritual solace and religious fulfilment without any hindrance. It also represents the distinct identity, glory and heritage of the Sikhs.
 
-SGPC – Shiromani Gurdwara Parbandhak Committee is a supreme Sikh organization body for the Sikhs. They provide information on all the Sikh matters including Religious & Spiritual needs.
+### ਸ਼੍ਰੋਮਣੀ ਗੁਰਦ੍ਵਾਰਾ ਪ੍ਰਬੰਧਿਕ ਕੋਮਿਟੀ  [SGPC](https:sgpc.net)
+Shiromani Gurdwara Parbandhak Committee is a supreme Sikh organization body for the Sikhs. They provide information on all the Sikh matters including Religious & Spiritual needs.
 
-STTM - SikhiToTheMax has become a defacto standard for events, camps and Gurdwaras around the world to display Gurbani on large screens for Sangat to be able to join into the depth of Gurbani and translations.
-
-Panjab Digital Library (PDL) – PDL is an effort to digitally preserve and reveal the rich heritage of the Panjab state. PDL is not only digitally archiving these items in their original form, color, graphics and texture, but it will also change the way the public is able to access and utilize these texts. PDL will redefine the role and scope of a global library.
+### ਪੰਜਾਬ ਡਿਜਿਟਲ ਲਾਇਬ੍ਰੇਰੀ [Panjab Digital Library](Panjab Digital Library (PDL))
+PDL is an effort to digitally preserve and reveal the rich heritage of the Panjab state. PDL is not only digitally archiving these items in their original form, color, graphics and texture, but it will also change the way the public is able to access and utilize these texts. PDL will redefine the role and scope of a global library.
 
 Panjab Times – Panjab Times is one of favorite Punjabi language weekly magazine in UK & worldwide for the Punjabi community.
 
