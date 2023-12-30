@@ -18,7 +18,7 @@ We are further working on the below to be available in the near future:
 
 •	Reference materials: Provide resources that can help researchers and academics delve deeper into Sikh history and culture, such as bibliographies and links to scholarly articles and research papers.
 
-## Here are some links to online resources for now;
+Here are some links to online resources for now;
 
 ### ਸ਼੍ਰੀ ਦਰਬਾਰ ਸਾਹਿਬ Sri Darbar Sahib - [The Golden Temple](https://www.goldentempleamritsar.org/), Amritsar Punjab
 The Golden Temple Amritsar India (Sri Harimandir Sahib Amritsar) is not only a central religious place of the Sikhs, but also a symbol of human brotherhood and equality. Everybody, irrespective of cast, creed or race can seek spiritual solace and religious fulfilment without any hindrance. It also represents the distinct identity, glory and heritage of the Sikhs.
