@@ -20,7 +20,7 @@ We are further working on the below to be available in the near future:
 
 ## Here are some links to online resources for now:
 
-Sri Darbar Sahib - ### [The Golden Temple], Amritsar Punjab
+Sri Darbar Sahib - ### [The Golden Temple](https://www.goldentempleamritsar.org/), Amritsar Punjab
 The Golden Temple Amritsar India (Sri Harimandir Sahib Amritsar) is not only a central religious place of the Sikhs, but also a symbol of human brotherhood and equality. Everybody, irrespective of cast, creed or race can seek spiritual solace and religious fulfilment without any hindrance. It also represents the distinct identity, glory and heritage of the Sikhs.
 
 SGPC – Shiromani Gurdwara Parbandhak Committee is a supreme Sikh organization body for the Sikhs. They provide information on all the Sikh matters including Religious & Spiritual needs.
