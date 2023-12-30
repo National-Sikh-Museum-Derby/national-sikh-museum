@@ -32,11 +32,14 @@ PDL is an effort to digitally preserve and reveal the rich heritage of the Panja
 ### ਪੰਜਾਬ ਟਾਈਮਜ਼ [Panjab Times](https://panjabtimes.uk/)
 Panjab Times is one of favorite Punjabi language weekly magazine in UK & worldwide for the Punjabi community.
 
-Sikh Siyasat - Sikh Siyasat News is a Punjab based Sikh news network. They have been covering Panthic & worldwide news from across the globe at the earliest possibility with necessary details for their readers. They provide a range of audiobooks for their viewers to listen & download.
+### ਸਿੱਖ ਸਿਆਸਤ [Sikh Siyasat](https://sikhsiyasat.net/) 
+Sikh Siyasat News is a Punjab based Sikh news network. They have been covering Panthic & worldwide news from across the globe at the earliest possibility with necessary details for their readers. They provide a range of audiobooks for their viewers to listen & download.
 
-Sikh Net - SikhNet is a source of inspiration that nurtures spiritual growth and supports a Sikh lifestyle, serving a global and diverse community in the spirit of Oneness and Chardi Kalaa.
+### ਸਿੱਖ ਨੈਟ [Sikh Siyasat](https://www.sikhnet.com/)
+SikhNet is a source of inspiration that nurtures spiritual growth and supports a Sikh lifestyle, serving a global and diverse community in the spirit of Oneness and Chardi Kalaa.
 
-British Library - British Library are the national library of UK. They hold over 170 million items – a living collections that gets bigger every day. They have millions of books, newspapers, maps, sound recordings, patents and stamps in their collection.
+### ਬ੍ਰਿਟਿਸ਼ ਲਾਇਬ੍ਰੇਰੀ [British Library](https://www.bl.uk/)
+British Library are the national library of UK. They hold over 170 million items – a living collections that gets bigger every day. They have millions of books, newspapers, maps, sound recordings, patents and stamps in their collection.
 
 ## BOOKS
 
