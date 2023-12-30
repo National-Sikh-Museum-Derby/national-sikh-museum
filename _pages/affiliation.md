@@ -21,7 +21,7 @@ As a cherished affiliate, Singh Sabha Derby Gurdwara stands as a beacon of spiri
 
 In partnership with Panjab Times, we celebrate the power of media to amplify Sikh stories. Panjab Time, a distinguished media platform, lends its expertise to broadcasting and disseminating the diverse narratives that shape the Sikh experience in the UK. Together, we strive to provide a dynamic platform for the exploration of Sikh history and culture through the lens of contemporary media.
 
-  ### [Akaal Primary School](https://www.nishkamschooltrust.org/aps/)
+### [Akaal Primary School](https://www.nishkamschooltrust.org/aps/)
 
   **To be humble, to be wise**
   
