@@ -20,7 +20,7 @@ We are further working on the below to be available in the near future:
 
 ## Here are some links to online resources for now:
 
-### ਸ਼੍ਰੀ ਦਰਬਾਰ ਸਾਹਿਬ Sri Darbar Sahib - [The Golden Temple](https://www.goldentempleamritsar.org/), Amritsar Punjab
+### (ਸ਼੍ਰੀ ਦਰਬਾਰ ਸਾਹਿਬ Sri Darbar Sahib - [The Golden Temple](https://www.goldentempleamritsar.org/), Amritsar Punjab
 The Golden Temple Amritsar India (Sri Harimandir Sahib Amritsar) is not only a central religious place of the Sikhs, but also a symbol of human brotherhood and equality. Everybody, irrespective of cast, creed or race can seek spiritual solace and religious fulfilment without any hindrance. It also represents the distinct identity, glory and heritage of the Sikhs.
 
 ### ਸ਼੍ਰੋਮਣੀ ਗੁਰਦ੍ਵਾਰਾ ਪ੍ਰਬੰਧਿਕ ਕੋਮਿਟੀ  [SGPC](https:sgpc.net)
