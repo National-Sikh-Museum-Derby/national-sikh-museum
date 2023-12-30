@@ -44,7 +44,7 @@ Khalis Foundation is dedicated to raising awareness of Sikh culture and lifestyl
 ### ਬ੍ਰਿਟਿਸ਼ ਲਾਇਬ੍ਰੇਰੀ [British Library](https://www.bl.uk/)
 British Library are the national library of UK. They hold over 170 million items – a living collections that gets bigger every day. They have millions of books, newspapers, maps, sound recordings, patents and stamps in their collection.
 
-### ਪਰਣਜੋਗ ਕਿਤਾਬਾਂ Recomended books to read (Listiing in process)
+### ਪੜਨਜੋਗ ਕਿਤਾਬਾਂ Recomended books to read (Listiing in process)
 
 ਹੰਨੈ ਹੰਨੈ ਪਾਤਸ਼ਾਹੀ (Hanne Hanne Patshahi) by Bhai Jagdeep Singh– ISBN 978-93-80210-76-6
 
@@ -53,6 +53,9 @@ British Library are the national library of UK. They hold over 170 million items
 ਮਹਾਨ ਕੋਸ਼ (Mahan Kosh) by Bhai Kahan Singh Nabha – ISBN
 
 Warrior Saints - 
+
+Sikh Religion and Sikh History books by Max Arthur Macauliffe -
+
 
 ### ਸਰੋਤ Reference materials (Listiing in process)
 
