@@ -18,10 +18,11 @@ We are further working on the below to be available in the near future:
 
 •	Reference materials: Provide resources that can help researchers and academics delve deeper into Sikh history and culture, such as bibliographies and links to scholarly articles and research papers.
 
-Here are some links to online resources for now:
+## Here are some links to online resources for now:
 
 
 
-## Books
 
-[Letters of Uhdam Singh](http://www.panjabdigilib.org/webuser/searches/displayPage.jsp?ID=36737&page=1&CategoryID=1&Searched=W3GX&sbtsro=1&viewall=1)
+## Reference materials:
+
+[Letters of Uhdham Singh](http://www.panjabdigilib.org/webuser/searches/displayPage.jsp?ID=36737&page=1&CategoryID=1&Searched=W3GX&sbtsro=1&viewall=1)
