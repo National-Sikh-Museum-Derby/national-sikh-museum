@@ -2,7 +2,7 @@
 title: Affiliation
 subtitle:
 description: Affiliation
-featured_image: /assets/img/sections/home-header.jpg
+featured_image: /assets/img/sections/affiliation.jpg
 ---
 
 At the heart of our mission lies the spirit of unity and collaboration, as we strive to weave together the vibrant tapestry of Sikh heritage. The National Sikh Museum takes immense pride in fostering meaningful affiliations with esteemed organizations that share our commitment to preserving and promoting Sikh history and culture.

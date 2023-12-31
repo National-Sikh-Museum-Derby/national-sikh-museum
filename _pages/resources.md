@@ -2,7 +2,7 @@
 title: Resources
 subtitle: null
 description: Resources
-featured_image: /assets/img/sections/home-header.jpg
+featured_image: /assets/img/sections/resources.jpg
 published: true
 ---
 
