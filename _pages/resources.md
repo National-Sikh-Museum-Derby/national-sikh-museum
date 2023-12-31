@@ -23,10 +23,10 @@ Here are some links to online resources for now (Listiing in process):
 ### ਸ਼੍ਰੀ ਦਰਬਾਰ ਸਾਹਿਬ Sri Darbar Sahib - [The Golden Temple](https://www.goldentempleamritsar.org/), Amritsar Punjab
 The Golden Temple Amritsar India (Sri Harimandir Sahib Amritsar) is not only a central religious place of the Sikhs, but also a symbol of human brotherhood and equality. Everybody, irrespective of cast, creed or race can seek spiritual solace and religious fulfilment without any hindrance. It also represents the distinct identity, glory and heritage of the Sikhs.
 
-### ਸ਼੍ਰੋਮਣੀ ਗੁਰਦ੍ਵਾਰਾ ਪ੍ਰਬੰਧਿਕ ਕੋਮਿਟੀ  [SGPC](https:sgpc.net)
+### ਸ਼੍ਰੋਮਣੀ ਗੁਰਦ੍ਵਾਰਾ ਪ੍ਰਬੰਧਿਕ ਕੋਮਿਟੀ  [SGPC](https://sgpc.net)
 Shiromani Gurdwara Parbandhak Committee is a supreme Sikh organization body for the Sikhs. They provide information on all the Sikh matters including Religious & Spiritual needs.
 
-### ਪੰਜਾਬ ਡਿਜਿਟਲ ਲਾਇਬ੍ਰੇਰੀ [Panjab Digital Library](Panjab Digital Library (PDL))
+### ਪੰਜਾਬ ਡਿਜਿਟਲ ਲਾਇਬ੍ਰੇਰੀ [Panjab Digital Library](http://www.panjabdigilib.org/webuser/searches/mainpage.jsp)
 PDL is an effort to digitally preserve and reveal the rich heritage of the Panjab state. PDL is not only digitally archiving these items in their original form, color, graphics and texture, but it will also change the way the public is able to access and utilize these texts. PDL will redefine the role and scope of a global library.
 
 ### ਪੰਜਾਬ ਟਾਈਮਜ਼ [Panjab Times](https://panjabtimes.uk/)
@@ -35,10 +35,10 @@ Panjab Times is one of favorite Punjabi language weekly magazine in UK & worldwi
 ### ਸਿੱਖ ਸਿਆਸਤ [Sikh Siyasat](https://sikhsiyasat.net/) 
 Sikh Siyasat News is a Punjab based Sikh news network. They have been covering Panthic & worldwide news from across the globe at the earliest possibility with necessary details for their readers. They provide a range of audiobooks for their viewers to listen & download.
 
-### ਸਿੱਖ ਨੈਟ [Sikh Siyasat](https://www.sikhnet.com/)
+### ਸਿੱਖ ਨੈਟ [Sikh Net](https://www.sikhnet.com/)
 SikhNet is a source of inspiration that nurtures spiritual growth and supports a Sikh lifestyle, serving a global and diverse community in the spirit of Oneness and Chardi Kalaa.
 
-### ਖ਼ਾਲਿਸ ਫੌਂਡੇਸ਼ਨ [Khalis Foundation](Khalis Foundation – 20+ years of Sharing Sikhi Through Technology)
+### ਖ਼ਾਲਿਸ ਫੌਂਡੇਸ਼ਨ [Khalis Foundation](https://khalisfoundation.org/)
 Khalis Foundation is dedicated to raising awareness of Sikh culture and lifestyle through various services such as media, apps and books.
 
 ### ਬ੍ਰਿਟਿਸ਼ ਲਾਇਬ੍ਰੇਰੀ [British Library](https://www.bl.uk/)
