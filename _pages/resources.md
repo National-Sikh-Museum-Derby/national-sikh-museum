@@ -35,7 +35,7 @@ Panjab Times is one of favorite Punjabi language weekly magazine in UK & worldwi
 ### ਸਿੱਖ ਸਿਆਸਤ [Sikh Siyasat](https://sikhsiyasat.net/){:target="_blank"}
 Sikh Siyasat News is a Punjab based Sikh news network. They have been covering Panthic & worldwide news from across the globe at the earliest possibility with necessary details for their readers. They provide a range of audiobooks for their viewers to listen & download.
 
-### ਸਿੱਖ ਨੈਟ [Sikh Net](https://www.sikhnet.com/){:target="_blank"}
+### ਸਿੱਖ ਨੈਟ [SikhNet](https://www.sikhnet.com/){:target="_blank"}
 SikhNet is a source of inspiration that nurtures spiritual growth and supports a Sikh lifestyle, serving a global and diverse community in the spirit of Oneness and Chardi Kalaa.
 
 ### ਖ਼ਾਲਿਸ ਫੌਂਡੇਸ਼ਨ [Khalis Foundation](https://khalisfoundation.org/){:target="_blank"}
@@ -61,6 +61,6 @@ Warrior Saints -
 Sikh Religion and Sikh History books by Max Arthur Macauliffe -
 
 
-### ਸਰੋਤ Reference materials (Listiing in process)
+### ਸਰੋਤ Reference materials (Listing in process)
 
 [Letters of Uhdham Singh](http://www.panjabdigilib.org/webuser/searches/displayPage.jsp?ID=36737&page=1&CategoryID=1&Searched=W3GX&sbtsro=1&viewall=1){:target="_blank"}
