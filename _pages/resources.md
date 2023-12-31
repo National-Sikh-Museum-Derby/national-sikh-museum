@@ -23,7 +23,7 @@ Here are some links to online resources for now (Listiing in process):
 ### ਸ਼੍ਰੀ ਦਰਬਾਰ ਸਾਹਿਬ Sri Darbar Sahib - [The Golden Temple](https://www.goldentempleamritsar.org/){:target="_blank"}, Amritsar Punjab
 The Golden Temple Amritsar India (Sri Harimandir Sahib Amritsar) is not only a central religious place of the Sikhs, but also a symbol of human brotherhood and equality. Everybody, irrespective of cast, creed or race can seek spiritual solace and religious fulfilment without any hindrance. It also represents the distinct identity, glory and heritage of the Sikhs.
 
-### ਸ਼੍ਰੋਮਣੀ ਗੁਰਦ੍ਵਾਰਾ ਪ੍ਰਬੰਧਿਕ ਕੋਮਿਟੀ  [SGPC](https://sgpc.net){:target="_blank"}
+### ਸ਼੍ਰੋਮਣੀ ਗੁਰਦੁਵਾਰਾ ਪ੍ਰਬੰਧਿਕ ਕਮੇਟੀ [SGPC](https://sgpc.net){:target="_blank"}
 Shiromani Gurdwara Parbandhak Committee is a supreme Sikh organization body for the Sikhs. They provide information on all the Sikh matters including Religious & Spiritual needs.
 
 ### ਪੰਜਾਬ ਡਿਜਿਟਲ ਲਾਇਬ੍ਰੇਰੀ [Panjab Digital Library](http://www.panjabdigilib.org/webuser/searches/mainpage.jsp){:target="_blank"}
@@ -41,7 +41,7 @@ Politics Punjab is the newest Punjabi and English speaking Television channel wi
 ### ਸਿੱਖ ਨੈਟ [SikhNet](https://www.sikhnet.com/){:target="_blank"}
 SikhNet is a source of inspiration that nurtures spiritual growth and supports a Sikh lifestyle, serving a global and diverse community in the spirit of Oneness and Chardi Kalaa.
 
-### ਖ਼ਾਲਿਸ ਫੌਂਡੇਸ਼ਨ [Khalis Foundation](https://khalisfoundation.org/){:target="_blank"}
+### ਖ਼ਾਲਿਸ ਫਾਉਂਡੇਸ਼ਨ [Khalis Foundation](https://khalisfoundation.org/){:target="_blank"}
 Khalis Foundation is dedicated to raising awareness of Sikh culture and lifestyle through various services such as media, apps and books.
 
 ### ਬੇਸਿਕਸ ਆਫ ਸਿੱਖੀ [Basics of Sikhi](https://www.basicsofsikhi.com/){:target="_blank"}
@@ -51,7 +51,7 @@ enlightened and serve selflessly. We strive to share the beautiful message of Si
 ### ਬ੍ਰਿਟਿਸ਼ ਲਾਇਬ੍ਰੇਰੀ [British Library](https://www.bl.uk/){:target="_blank"}
 British Library are the national library of UK. They hold over 170 million items – a living collections that gets bigger every day. They have millions of books, newspapers, maps, sound recordings, patents and stamps in their collection.
 
-### ਪੜਨਜੋਗ ਕਿਤਾਬਾਂ Recomended books to read (Listing in process)
+### ਪੜ੍ਹਨਯੋਗ ਕਿਤਾਬਾਂ Recomended books to read (Listing in process)
 
 ਹੰਨੈ ਹੰਨੈ ਪਾਤਸ਼ਾਹੀ (Hanne Hanne Patshahi) by Bhai Jagdeep Singh– ISBN 978-93-80210-76-6
 
