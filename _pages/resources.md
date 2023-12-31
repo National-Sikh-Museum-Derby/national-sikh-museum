@@ -41,6 +41,9 @@ Politics Punjab is the newest Punjabi and English speaking Television channel wi
 ### ਸਿੱਖ ਨੈਟ [SikhNet](https://www.sikhnet.com/){:target="_blank"}
 SikhNet is a source of inspiration that nurtures spiritual growth and supports a Sikh lifestyle, serving a global and diverse community in the spirit of Oneness and Chardi Kalaa.
 
+### ਖ਼ਾਲਸਾ ਫਾਉਂਡੇਸ਼ਨ [Khalsa Foundation](https://www.khalsafoundation.org/#){:target="_blank"}
+At Khalsa Foundation we look to provide a solid foundation of knowledge for individuals so they can explore different aspects spirituality and humanity.
+
 ### ਖ਼ਾਲਿਸ ਫਾਉਂਡੇਸ਼ਨ [Khalis Foundation](https://khalisfoundation.org/){:target="_blank"}
 Khalis Foundation is dedicated to raising awareness of Sikh culture and lifestyle through various services such as media, apps and books.
 
