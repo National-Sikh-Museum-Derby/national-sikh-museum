@@ -9,7 +9,7 @@ At the heart of our mission lies the spirit of unity and collaboration, as we st
 
 We are delighted to spotlight three distinguished affiliates, each contributing uniquely to our collective narrative: Gurdwara Sri Guru Singh Sabha Derby, Panjab Times and Akaal Primary School. Together, we stand as pillars of knowledge, united in our dedication to preserving the rich tapestry of Sikh history, Values and Ethos within the United Kingdom.
 
-### [Gurdwara Sri Guru Singh Sabha Derby](https://sgssderby.com)
+### [Gurdwara Sri Guru Singh Sabha Derby](https://sgssderby.com){:target="_blank"}
 
 **Preserving Sacred Spaces, Nurturing Community Bonds**
 
