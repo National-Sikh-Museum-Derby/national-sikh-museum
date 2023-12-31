@@ -38,6 +38,9 @@ Sikh Siyasat News is a Punjab based Sikh news network. They have been covering P
 ### ਪੌਲੀਟਿਕਸ ਪੰਜਾਬ [Politics Punjab](https://www.politicspunjabtv.co.uk/){:target="_blank"}
 Politics Punjab is the newest Punjabi and English speaking Television channel with news, cultural, educational and entertaining programmes for all audiences.
 
+### ਜੈਕਾਰਾ ਮੂਵਮੈਂਟ [Jakara Movement](https://www.jakara.org/){:target="_blank"}
+The Jakara Movement is a grassroots community-building organization working to empower, educate, and organize Punjabi Sikhs, and other marginalized communities; to advance their health, education, and economic, social, and political power. We strive to create a Gurmat-inspired community, rooted in the struggle of our foremothers and forefathers, committed to gender equality and caste abolitionism to develop powerful, informed, and organized youth leadership, locally-rooted residential power, and community capacity that will be a key partner in building a better future for all.
+
 ### ਸਿੱਖ ਨੈਟ [SikhNet](https://www.sikhnet.com/){:target="_blank"}
 SikhNet is a source of inspiration that nurtures spiritual growth and supports a Sikh lifestyle, serving a global and diverse community in the spirit of Oneness and Chardi Kalaa.
 
