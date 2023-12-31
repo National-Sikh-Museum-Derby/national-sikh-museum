@@ -41,6 +41,10 @@ SikhNet is a source of inspiration that nurtures spiritual growth and supports a
 ### ਖ਼ਾਲਿਸ ਫੌਂਡੇਸ਼ਨ [Khalis Foundation](https://khalisfoundation.org/)
 Khalis Foundation is dedicated to raising awareness of Sikh culture and lifestyle through various services such as media, apps and books.
 
+### ਬੇਸਿਕਸ ਆਫ ਸਿੱਖੀ [Basics of Sikhi](https://www.basicsofsikhi.com/)
+Our mission is to globally spread the Universal message of Sri Guru Nanak Dev Ji, which is to be spiritually
+enlightened and serve selflessly. We strive to share the beautiful message of Sikhi, which is meant to be experienced and shared!
+
 ### ਬ੍ਰਿਟਿਸ਼ ਲਾਇਬ੍ਰੇਰੀ [British Library](https://www.bl.uk/)
 British Library are the national library of UK. They hold over 170 million items – a living collections that gets bigger every day. They have millions of books, newspapers, maps, sound recordings, patents and stamps in their collection.
 
