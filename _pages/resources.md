@@ -48,7 +48,7 @@ enlightened and serve selflessly. We strive to share the beautiful message of Si
 ### ਬ੍ਰਿਟਿਸ਼ ਲਾਇਬ੍ਰੇਰੀ [British Library](https://www.bl.uk/){:target="_blank"}
 British Library are the national library of UK. They hold over 170 million items – a living collections that gets bigger every day. They have millions of books, newspapers, maps, sound recordings, patents and stamps in their collection.
 
-### ਪੜਨਜੋਗ ਕਿਤਾਬਾਂ Recomended books to read (Listiing in process)
+### ਪੜਨਜੋਗ ਕਿਤਾਬਾਂ Recomended books to read (Listing in process)
 
 ਹੰਨੈ ਹੰਨੈ ਪਾਤਸ਼ਾਹੀ (Hanne Hanne Patshahi) by Bhai Jagdeep Singh– ISBN 978-93-80210-76-6
 
