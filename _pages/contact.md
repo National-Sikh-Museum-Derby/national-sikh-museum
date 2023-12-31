@@ -45,8 +45,6 @@ featured_image: /assets/img/sections/home-header.jpg
     </div>
     <p class="text-center">
         Alternatively:<br/>
-        Mr Gurpal Singh,
-        Head of Operations,
-        Mobile: 07951 739 459
-    </p>
+        Chairman - Sardar Rajinder Singh Purewal - 07966 974505 - rspurewal@nationalsikhmuseum.com
+        Head of Operations - Sardar Gurpal Singh - 07951 739459 - gsingh@nationalsikhmuseum.com</p>
 </div>
