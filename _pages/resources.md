@@ -20,32 +20,32 @@ We are further working on the below to be available in the near future:
 
 Here are some links to online resources for now (Listiing in process):
 
-### ਸ਼੍ਰੀ ਦਰਬਾਰ ਸਾਹਿਬ Sri Darbar Sahib - [The Golden Temple](https://www.goldentempleamritsar.org/), Amritsar Punjab
+### ਸ਼੍ਰੀ ਦਰਬਾਰ ਸਾਹਿਬ Sri Darbar Sahib - [The Golden Temple](https://www.goldentempleamritsar.org/){:target="_blank"}, Amritsar Punjab
 The Golden Temple Amritsar India (Sri Harimandir Sahib Amritsar) is not only a central religious place of the Sikhs, but also a symbol of human brotherhood and equality. Everybody, irrespective of cast, creed or race can seek spiritual solace and religious fulfilment without any hindrance. It also represents the distinct identity, glory and heritage of the Sikhs.
 
-### ਸ਼੍ਰੋਮਣੀ ਗੁਰਦ੍ਵਾਰਾ ਪ੍ਰਬੰਧਿਕ ਕੋਮਿਟੀ  [SGPC](https://sgpc.net)
+### ਸ਼੍ਰੋਮਣੀ ਗੁਰਦ੍ਵਾਰਾ ਪ੍ਰਬੰਧਿਕ ਕੋਮਿਟੀ  [SGPC](https://sgpc.net){:target="_blank"}
 Shiromani Gurdwara Parbandhak Committee is a supreme Sikh organization body for the Sikhs. They provide information on all the Sikh matters including Religious & Spiritual needs.
 
-### ਪੰਜਾਬ ਡਿਜਿਟਲ ਲਾਇਬ੍ਰੇਰੀ [Panjab Digital Library](http://www.panjabdigilib.org/webuser/searches/mainpage.jsp)
+### ਪੰਜਾਬ ਡਿਜਿਟਲ ਲਾਇਬ੍ਰੇਰੀ [Panjab Digital Library](http://www.panjabdigilib.org/webuser/searches/mainpage.jsp){:target="_blank"}
 PDL is an effort to digitally preserve and reveal the rich heritage of the Panjab state. PDL is not only digitally archiving these items in their original form, color, graphics and texture, but it will also change the way the public is able to access and utilize these texts. PDL will redefine the role and scope of a global library.
 
-### ਪੰਜਾਬ ਟਾਈਮਜ਼ [Panjab Times](https://panjabtimes.uk/)
+### ਪੰਜਾਬ ਟਾਈਮਜ਼ [Panjab Times](https://panjabtimes.uk/){:target="_blank"}
 Panjab Times is one of favorite Punjabi language weekly magazine in UK & worldwide for the Punjabi community.
 
-### ਸਿੱਖ ਸਿਆਸਤ [Sikh Siyasat](https://sikhsiyasat.net/) 
+### ਸਿੱਖ ਸਿਆਸਤ [Sikh Siyasat](https://sikhsiyasat.net/){:target="_blank"}
 Sikh Siyasat News is a Punjab based Sikh news network. They have been covering Panthic & worldwide news from across the globe at the earliest possibility with necessary details for their readers. They provide a range of audiobooks for their viewers to listen & download.
 
-### ਸਿੱਖ ਨੈਟ [Sikh Net](https://www.sikhnet.com/)
+### ਸਿੱਖ ਨੈਟ [Sikh Net](https://www.sikhnet.com/){:target="_blank"}
 SikhNet is a source of inspiration that nurtures spiritual growth and supports a Sikh lifestyle, serving a global and diverse community in the spirit of Oneness and Chardi Kalaa.
 
-### ਖ਼ਾਲਿਸ ਫੌਂਡੇਸ਼ਨ [Khalis Foundation](https://khalisfoundation.org/)
+### ਖ਼ਾਲਿਸ ਫੌਂਡੇਸ਼ਨ [Khalis Foundation](https://khalisfoundation.org/){:target="_blank"}
 Khalis Foundation is dedicated to raising awareness of Sikh culture and lifestyle through various services such as media, apps and books.
 
-### ਬੇਸਿਕਸ ਆਫ ਸਿੱਖੀ [Basics of Sikhi](https://www.basicsofsikhi.com/)
+### ਬੇਸਿਕਸ ਆਫ ਸਿੱਖੀ [Basics of Sikhi](https://www.basicsofsikhi.com/){:target="_blank"}
 Our mission is to globally spread the Universal message of Sri Guru Nanak Dev Ji, which is to be spiritually
 enlightened and serve selflessly. We strive to share the beautiful message of Sikhi, which is meant to be experienced and shared!
 
-### ਬ੍ਰਿਟਿਸ਼ ਲਾਇਬ੍ਰੇਰੀ [British Library](https://www.bl.uk/)
+### ਬ੍ਰਿਟਿਸ਼ ਲਾਇਬ੍ਰੇਰੀ [British Library](https://www.bl.uk/){:target="_blank"}
 British Library are the national library of UK. They hold over 170 million items – a living collections that gets bigger every day. They have millions of books, newspapers, maps, sound recordings, patents and stamps in their collection.
 
 ### ਪੜਨਜੋਗ ਕਿਤਾਬਾਂ Recomended books to read (Listiing in process)
@@ -63,4 +63,4 @@ Sikh Religion and Sikh History books by Max Arthur Macauliffe -
 
 ### ਸਰੋਤ Reference materials (Listiing in process)
 
-[Letters of Uhdham Singh](http://www.panjabdigilib.org/webuser/searches/displayPage.jsp?ID=36737&page=1&CategoryID=1&Searched=W3GX&sbtsro=1&viewall=1)
+[Letters of Uhdham Singh](http://www.panjabdigilib.org/webuser/searches/displayPage.jsp?ID=36737&page=1&CategoryID=1&Searched=W3GX&sbtsro=1&viewall=1){:target="_blank"}
