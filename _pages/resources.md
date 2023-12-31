@@ -35,6 +35,9 @@ Panjab Times is one of favorite Punjabi language weekly magazine in UK & worldwi
 ### ਸਿੱਖ ਸਿਆਸਤ [Sikh Siyasat](https://sikhsiyasat.net/){:target="_blank"}
 Sikh Siyasat News is a Punjab based Sikh news network. They have been covering Panthic & worldwide news from across the globe at the earliest possibility with necessary details for their readers. They provide a range of audiobooks for their viewers to listen & download.
 
+### ਪੌਲੀਟਿਕਸ ਪੰਜਾਬ [Politics Punjab](https://www.politicspunjabtv.co.uk/)
+Politics Punjab is the newest Punjabi and English speaking Television channel with news, cultural, educational and entertaining programmes for all audiences.
+
 ### ਸਿੱਖ ਨੈਟ [SikhNet](https://www.sikhnet.com/){:target="_blank"}
 SikhNet is a source of inspiration that nurtures spiritual growth and supports a Sikh lifestyle, serving a global and diverse community in the spirit of Oneness and Chardi Kalaa.
 
