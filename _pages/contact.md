@@ -46,5 +46,6 @@ featured_image: /assets/img/sections/home-header.jpg
     <p class="text-center">
         Alternatively:<br/>
         Chairman - Sardar Rajinder Singh Purewal - 07966 974505 - rspurewal@nationalsikhmuseum.com <br>
+        Trustee - Sardar Raghbir Singh Taggar - 07800 928691 - rstaggar@nationalsikhmuseum.com <br>
         Head of Operations - Sardar Gurpal Singh - 07951 739459 - gsingh@nationalsikhmuseum.com</p>
 </div>
