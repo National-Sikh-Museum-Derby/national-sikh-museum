@@ -15,6 +15,11 @@ There is a `_include\posts.html` which I believe get hooked by jekyll from `_pos
 ### What is `_includes/` folder
 The _includes folder in Jekyll is a directory where you can store reusable HTML code snippets that can be included in your Jekyll pages and posts using the Liquid templating engine. 
 
+# Argon Theme
+Jekyll Argon Theme: https://jekyllthemes.io/theme/argon-jekyll-theme
+Original Argon Theme: https://demos.creative-tim.com/argon-design-system/index.html
+
+
 ### Where is menu items stored
 `_data/settings.yml`. This file is also holds theme specific settings.
 
@@ -29,7 +34,7 @@ This file allows you to specify important site-wide settings such as the site ti
 
  You can also configure how Jekyll processes your content, such as setting defaults for front matter variables, specifying which files and directories to exclude from the build, and defining collections of content.
 
- ### Differnt code snippets
+ ### Different code snippets
  `page.url != "/"` 
 
  ### css styles classes
