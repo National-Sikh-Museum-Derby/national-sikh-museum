@@ -12,7 +12,7 @@ Educational Materials for Schools can be accessed free of charge from the follow
 <a href="https://nshchm-s-site.thinkific.com/courses/the-jwb-edu-project">The Jallianwala Bagh Massacre Education Project</a>
 
 <div style="text-align: center">
-    <img src="../assets/img/pages/jallianwala-bagh-2.jpeg" style="max-width: 400px; margin: 1.5rem auto 1rem;" />
+    <img src="../assets/img/pages/jallianwala-bagh-2.jpeg" style="max-width: 400px; margin: 1.5rem auto 1rem;width: 100%;" />
     <br />
     <strong>Model at National Sikh Museum showing soldiers opening gunfire on protesters at Jallianwala Bagh</strong>
 </div>
