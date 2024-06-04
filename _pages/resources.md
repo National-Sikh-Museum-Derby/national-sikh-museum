@@ -73,3 +73,5 @@ Sikh Religion and Sikh History books by Max Arthur Macauliffe -
 ### ਸਰੋਤ Reference materials (Listing in process)
 
 [Letters of Uhdham Singh](http://www.panjabdigilib.org/webuser/searches/displayPage.jsp?ID=36737&page=1&CategoryID=1&Searched=W3GX&sbtsro=1&viewall=1){:target="_blank"}
+
+[ਅੰਮ੍ਰਿਤਸਰ ਦੀਆਂ ਲੜਾਈਆਂ 'ਤੇ ਸੰਖੇਪ ਇਤਿਹਾਸ - Brief History on Battles of Amritsar PDF]({{ '/assets/pdf/40_Years_Battle_of_Amritsar_1984.pdf' | relative_url }}){:target="_blank"}
