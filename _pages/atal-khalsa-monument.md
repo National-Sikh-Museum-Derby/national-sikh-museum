@@ -10,9 +10,6 @@ title: ਅਟੱਲ ਖ਼ਾਲਸਾ - ਸ਼ਹੀਦੀ ਯਾਦਗ਼ਾਰ <br /> 
         <h3>ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ <br />
         Choose your language</h3>
     </p>
-
-    <!-- <button type="button" class="btn btn-outline-primary">Punjabi</button>
-    <button type="button" class="btn btn-outline-primary">English</button> -->
 </div>
 
 <div class="cd-section" id="accordion">
