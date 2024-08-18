@@ -29,7 +29,9 @@ title: ਅਟੱਲ ਖ਼ਾਲਸਾ - ਸ਼ਹੀਦੀ ਯਾਦਗ਼ਾਰ <br /> 
                 </div>
                 <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample" style="">
                   <div class="card-body opacity-8">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/LrDhHOELf8E?si=DIXsCkEQKKJAwsbc" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <div class="video-container">
+                        <iframe src="https://www.youtube.com/embed/LrDhHOELf8E?si=DIXsCkEQKKJAwsbc" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                      </div>
                   </div>
                 </div>
               </div>
@@ -43,7 +45,9 @@ title: ਅਟੱਲ ਖ਼ਾਲਸਾ - ਸ਼ਹੀਦੀ ਯਾਦਗ਼ਾਰ <br /> 
                   </h5>
                 </div>
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample" style="">
-                  <iframe src="https://www.youtube.com/embed/J9xpSvzzESE?si=LfeWgwzVbkC3Yqhj" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen width="560" height="315"></iframe>
+                  <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/J9xpSvzzESE?si=LfeWgwzVbkC3Yqhj" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                  </div>
                 </div>
               </div>
             </div>
