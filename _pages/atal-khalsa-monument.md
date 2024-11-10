@@ -1,58 +1,33 @@
 ---
-title: ਅਟੱਲ ਖ਼ਾਲਸਾ - ਸ਼ਹੀਦੀ ਯਾਦਗ਼ਾਰ <br /> Atal Khalsa Monument
+title: ਜਾਣਕਾਰੀ ਦੌਰਾ / Guided tour
 ---
 
-<h1>
-<h2 class="display-3 pb-3"></h2>
-
 <div style="text-align: center">
-    <p>
-        <h3>ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ <br />
-        Choose your language</h3>
-    </p>
-</div>
-
-<div class="cd-section" id="accordion" style="max-width: 560px; margin: 0 auto;">
-    <div class="accordion-1">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 ml-auto">
-            <div class="accordion" id="accordionExample">
-              <div class="card">
-                <div class="card-header" id="headingOne">
-                  <h5 class="mb-0">
-                    <button class="btn btn-link w-100 text-primary text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                        Punjabi
-                      <i class="ni ni-bold-down float-right pt-1"></i>
-                    </button>
-                  </h5>
-                </div>
-                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample" style="">
-                  <div class="card-body opacity-8">
-                    <div class="video-container">
-                        <iframe src="https://www.youtube.com/embed/LrDhHOELf8E?si=DIXsCkEQKKJAwsbc" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                      </div>
-                  </div>
-                </div>
-              </div>
-              <div class="card">
-                <div class="card-header" id="headingTwo">
-                  <h5 class="mb-0">
-                    <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                      English
-                      <i class="ni ni-bold-down float-right pt-1"></i>
-                    </button>
-                  </h5>
-                </div>
-                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample" style="">
-                  <div class="video-container">
-                    <iframe src="https://www.youtube.com/embed/J9xpSvzzESE?si=LfeWgwzVbkC3Yqhj" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                  </div>
-                </div>
-              </div>
+  <h3>ਭਾਸ਼ਾ / Language</h3>
+   <div class="nav-wrapper">
+      <ul class="nav nav-pills nav-fill flex-row flex-md-row" id="tabs-icons-text" role="tablist">
+         <li class="nav-item">
+            <a class="nav-link mb-sm-3 mb-md-0 active" id="tabs-icons-text-1-tab" data-toggle="tab" href="#tabs-icons-text-1" role="tab" aria-controls="tabs-icons-text-1" aria-selected="true">ਪੰਜਾਬੀ</a>
+         </li>
+         <li class="nav-item">
+            <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-2-tab" data-toggle="tab" href="#tabs-icons-text-2" role="tab" aria-controls="tabs-icons-text-2" aria-selected="false">English</a>
+         </li>
+      </ul>
+   </div>
+   <div class="card shadow">
+      <div class="card-body">
+         <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="tabs-icons-text-1" role="tabpanel" aria-labelledby="tabs-icons-text-1-tab">
+               <div class="video-container">
+                  <iframe src="https://www.youtube.com/embed/LrDhHOELf8E?si=DIXsCkEQKKJAwsbc" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+               </div>
             </div>
-          </div>
-        </div>
+            <div class="tab-pane fade" id="tabs-icons-text-2" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+               <div class="video-container">
+                  <iframe src="https://www.youtube.com/embed/J9xpSvzzESE?si=LfeWgwzVbkC3Yqhj" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               </div>
+            </div>
+         </div>
       </div>
-    </div>
-  </div>
+   </div>
+</div>
