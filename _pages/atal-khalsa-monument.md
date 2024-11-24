@@ -19,7 +19,7 @@ title: ਜਾਣਕਾਰੀ ਦੌਰਾ / Guided tour
          <div class="tab-content" id="myTabContent">
             <div class="tab-pane fade show active" id="tabs-icons-text-1" role="tabpanel" aria-labelledby="tabs-icons-text-1-tab">
                <div class="video-container">
-                  <iframe src="https://www.youtube.com/embed/LrDhHOELf8E?si=DIXsCkEQKKJAwsbc" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                  <iframe src="https://www.youtube.com/embed/tPD2n1A-_kU?si=hbPgp_fgoj8p7KUn" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                </div>
             </div>
             <div class="tab-pane fade" id="tabs-icons-text-2" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
