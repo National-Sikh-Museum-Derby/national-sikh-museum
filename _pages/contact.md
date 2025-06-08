@@ -40,7 +40,7 @@ featured_image: /assets/img/sections/home-header.jpg
             </div>
             <h4 class="info-title">Group Booking Form</h4>
             <p class="description px-0">
-                <a href="https://forms.gle/9dwpLEjGGcvv9GmdA"><span class="btn btn-primary">Group Booking Form</span></a>
+                <a href="https://forms.gle/9dwpLEjGGcvv9GmdA" target="_blank"><span class="btn btn-primary">Group Booking Form</span></a>
             </p>
 
         </div>
