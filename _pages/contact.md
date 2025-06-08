@@ -38,14 +38,12 @@ featured_image: /assets/img/sections/home-header.jpg
             <div class="icon icon-shape icon-shape-primary icon-lg shadow rounded-circle text-primary">
             <i class="ni ni-mobile-button"></i>
             </div>
-            <h4 class="info-title">Phone</h4>
-            <p class="description px-0"><a href="tel:00441332402530">01332 402530</a></p>
+            <h4 class="info-title">Group Booking Form</h4>
+            <p class="description px-0">
+                <a href="https://forms.gle/9dwpLEjGGcvv9GmdA"><span class="btn btn-primary">Group Booking Form</span></a>
+            </p>
+
         </div>
         </div>
     </div>
-    <p class="text-center">
-        Alternatively:<br/>
-        Chairman - Sardar Rajinder Singh Purewal - 07966 974505 - rspurewal@nationalsikhmuseum.com <br>
-        Trustee - Sardar Raghbir Singh Taggar - 07800 928691 - rstaggar@nationalsikhmuseum.com <br>
-        Head of Operations - Sardar Gurpal Singh - 07951 739459 - gsingh@nationalsikhmuseum.com</p>
 </div>
