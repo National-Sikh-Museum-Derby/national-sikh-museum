@@ -125,14 +125,12 @@ featured_image: /assets/img/sections/faq.jpg
                 <div class="card-header" id="heading8">
                   <h5 class="mb-0">
                     <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapse8" aria-controls="collapse8">
-                      Is there a gift shop or cafe on-site?
                       <i class="ni ni-bold-down float-right pt-1"></i>
                     </button>
                   </h5>
                 </div>
                 <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordionExample">
                   <div class="card-body opacity-8">
-                    Yes, there is a gift shop and free food (langar) offered by the Gurdwara opposite to the museum where visitors can eat for free.
                   </div>
                 </div>
               </div>
