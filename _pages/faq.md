@@ -126,17 +126,7 @@ featured_image: /assets/img/sections/faq.jpg
                   <h5 class="mb-0">
                     <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapse8" aria-controls="collapse8">
                       <i class="ni ni-bold-down float-right pt-1"></i>
-                    </button>
-                  </h5>
-                </div>
-                <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordionExample">
-                  <div class="card-body opacity-8">
-                  </div>
-                </div>
-              </div>
-              <div class="card">
-                <div class="card-header" id="heading9">
-                  <h5 class="mb-0">
+                   
                     <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapse9" aria-controls="collapse9">
                       Can visitors donate items to the museum's collection?
                       <i class="ni ni-bold-down float-right pt-1"></i>
